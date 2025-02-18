@@ -1,8 +1,8 @@
 quiz_data = [
     {
-        "question": "Cuántas altas tiene un avión?",
-        "choices": ["3 alas", "seguro 5", "entre 3 y 4", "2 alas"],
-        "answer": "2 alas"
+        "question": "Cuántas turbinas tiene un avión?",
+        "choices": ["3 turbinas", "seguro 5", "entre 3 y 4", "2 turbinas"],
+        "answer": "2 turbinas"
     },
     {
         "question": "Cuál es la capacidad máxima del Boeing 737?",
@@ -10,7 +10,7 @@ quiz_data = [
         "answer": "80 pasajeros"
     },
     {
-        "question": "A cuáles de estos destinos no llega Flybondi?",
+        "question": "A cuáles de estos destinos no llega AerolíneasCedolini?",
         "choices": ["Chaco", "São Paulo", "BsAs", "Chile"],
         "answer": "Chile"
     },
